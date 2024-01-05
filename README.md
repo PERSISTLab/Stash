@@ -1,5 +1,4 @@
-# Stash
-Stash: Flexible Energy Storage for Intermittent Sensors
+# Stash: Flexible Energy Storage for Intermittent Sensors
 =================
 Batteryless sensors promise a sustainable future for sensing, but they face significant challenges when storing and using
 environmental energy. Incoming energy can fluctuate unpredictably between periods of scarcity and abundance, and device
