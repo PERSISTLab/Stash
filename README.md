@@ -1,5 +1,7 @@
 # Stash: Flexible Energy Storage for Intermittent Sensors
-=================
+
+This repository hosts a reference Stash implementation as a peripheral for the Flicker hardware platform.
+
 Batteryless sensors promise a sustainable future for sensing, but they face significant challenges when storing and using
 environmental energy. Incoming energy can fluctuate unpredictably between periods of scarcity and abundance, and device
 performance depends on both incoming energy and how much a device can store. Existing batteryless devices have used fixed
@@ -7,7 +9,7 @@ or run-time selectable front-end capacitor banks to meet the energy needs of dif
 rapidly changing energy harvesting conditions, nor does it allow devices to store excess energy during times of abundance
 without sacrificing performance.
 
-This repository presents Stash, a hardware back-end energy storage technique that allows batteryless devices to charge quickly
+Stash, a hardware back-end energy storage technique that allows batteryless devices to charge quickly
 and store excess energy when it is abundant, extending their operating time and carrying out additional tasks without
 compromising the main ones. Stash performs like a small capacitor device when small capacitors excel and like a large
 capacitor device when large capacitors excel, with no additional software complexity and negligible power overhead. We
