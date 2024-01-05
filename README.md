@@ -1,6 +1,6 @@
 # Stash: Flexible Energy Storage for Intermittent Sensors
 
-This repository hosts a reference Stash implementation as a peripheral for the Flicker hardware platform.
+This repository hosts a reference Stash implementation as a peripheral for <a href="https://github.com/PERSISTLab/FlickerPlatform">the Flicker hardware platform</a>
 
 Batteryless sensors promise a sustainable future for sensing, but they face significant challenges when storing and using
 environmental energy. Incoming energy can fluctuate unpredictably between periods of scarcity and abundance, and device
